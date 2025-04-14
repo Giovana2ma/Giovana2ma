@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 I am a Computer Science student at the Federal University of Minas Gerais (UFMG) with a strong passion for research in Artificial Intelligence and Data Science. I have experience ranging from software development to advanced data analysis, with a focus on extracting valuable information from complex datasets.
 
